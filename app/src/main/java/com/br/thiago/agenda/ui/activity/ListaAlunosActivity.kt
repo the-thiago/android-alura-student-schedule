@@ -18,7 +18,7 @@ import java.io.Serializable
 
 class ListaAlunosActivity() : AppCompatActivity() {
 
-    private val tituloAppBar = "Lista de alunos"
+    private val tituloAppBar = "Student List"
     val dao = AlunoDAO()
 
     private val adapter: ArrayAdapter<Aluno>

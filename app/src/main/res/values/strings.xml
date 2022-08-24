@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">Agenda</string>
+    <string name="app_name">Schedule</string>
     <string name="botaomais">BotaoMais</string>
-    <string name="nome">Nome</string>
-    <string name="telefone">Telefone</string>
-    <string name="e_mail">E-mail</string>
-    <string name="salvar">Salvar</string>
+    <string name="nome">Name</string>
+    <string name="telefone">Phone</string>
+    <string name="e_mail">Email</string>
+    <string name="salvar">Save</string>
 </resources>

@@ -12,8 +12,8 @@ import com.br.thiago.agenda.ui.activity.ConstantesActivities.Companion.CHAVE_ALU
 
 class FormularioAlunoActivity : AppCompatActivity() {
 
-    private val tituloAppBarNovoALuno = "Novo Aluno"
-    private val tituloAppBarEditarALuno = "Editar Aluno"
+    private val tituloAppBarNovoALuno = "New Student"
+    private val tituloAppBarEditarALuno = "Edit Student"
     val dao = AlunoDAO()
     var aluno: Aluno? = null
     private val campoNome: EditText
